@@ -1,171 +1,261 @@
 id: IF45FCF33
+legacy_id: P004308
+ocr_import_info:
+  bdrc_scan_id: W1022
+  source: bdrc
+  ocr_info:
+    timestamp: '2021-01-31T08:17:16'
+    imagesfolder: images
+  batch_id: batch001
+  software_id: vision
+  expected_default_language: bo
+  op_import_options: {}
+  op_import_version: 1.0.0
+default_language: bo
 source: https://library.bdrc.io
 source_file: null
 initial_creation_type: ocr
-imported: '2020-03-26T05:09:56+00:00'
-last_modified: '2022-06-07T21:52:20.317947+00:00'
-parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+imported: '2022-08-29T12:47:36.911906+00:00'
+last_modified: 2022-08-29 20:52:50.781301
+parser: https://github.com/OpenPecha/Toolkit/blob/7f57883d84bc10351527a49ee6ce970ace404e50/openpecha/formatters/google_ocr.py
 source_metadata:
-  id: bdr:W1022
-  title: གསུང་འབུམ། ཡེ་ཤེས་རྒྱལ་མཚན།
-  author: ''
+  id: http://purl.bdrc.io/resource/W1022
+  status: http://purl.bdrc.io/admindata/StatusReleased
   access: http://purl.bdrc.io/admindata/AccessOpen
-  restrictedInChina: false
-  base:
-    4C56:
-      image_group_id: I1215
-      title: ''
-      total_pages: 806
-      order: 1
-      base_file: 4C56.txt
-    4CA2:
-      image_group_id: I1216
-      title: ''
-      total_pages: 756
-      order: 2
-      base_file: 4CA2.txt
-    '9399':
-      image_group_id: I1217
-      title: ''
-      total_pages: 556
-      order: 3
-      base_file: 9399.txt
-    C8B7:
-      image_group_id: I1218
-      title: ''
-      total_pages: 578
-      order: 4
-      base_file: C8B7.txt
-    F2C3:
-      image_group_id: I1219
-      title: ''
-      total_pages: 460
-      order: 5
-      base_file: F2C3.txt
-    A940:
-      image_group_id: I1220
-      title: ''
-      total_pages: 522
-      order: 6
-      base_file: A940.txt
-    A69B:
-      image_group_id: I1221
-      title: ''
-      total_pages: 575
-      order: 7
-      base_file: A69B.txt
-    0B9B:
-      image_group_id: I1222
-      title: ''
-      total_pages: 494
-      order: 8
-      base_file: 0B9B.txt
-    F324:
-      image_group_id: I1223
-      title: ''
-      total_pages: 686
-      order: 9
-      base_file: F324.txt
-    BBCC:
-      image_group_id: I1224
-      title: ''
+  reproduction_of: http://purl.bdrc.io/resource/MW1022
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: གསུང་འབུམ། ཡེ་ཤེས་རྒྱལ་མཚན།
+  author: ཚེ་མཆོག་གླིང་ཡོངས་འཛིན་ཡེ་ཤེས་རྒྱལ་མཚན།
+statistics: null
+quality: null
+bases:
+  I1224:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1224
       total_pages: 470
-      order: 10
-      base_file: BBCC.txt
-    1C96:
-      image_group_id: I1225
-      title: ''
-      total_pages: 614
-      order: 11
-      base_file: 1C96.txt
-    1F76:
-      image_group_id: I1226
-      title: ''
-      total_pages: 468
-      order: 12
-      base_file: 1F76.txt
-    4C87:
-      image_group_id: I1227
-      title: ''
-      total_pages: 576
-      order: 13
-      base_file: 4C87.txt
-    449D:
-      image_group_id: I1228
-      title: ''
-      total_pages: 462
-      order: 14
-      base_file: 449D.txt
-    A3BA:
-      image_group_id: I1229
-      title: ''
-      total_pages: 476
-      order: 15
-      base_file: A3BA.txt
-    8A60:
-      image_group_id: I1230
-      title: ''
-      total_pages: 570
-      order: 16
-      base_file: 8A60.txt
-    AE4E:
-      image_group_id: I1231
-      title: ''
-      total_pages: 496
-      order: 17
-      base_file: AE4E.txt
-    0394:
-      image_group_id: I1232
-      title: ''
-      total_pages: 510
-      order: 18
-      base_file: 0394.txt
-    64BB:
-      image_group_id: I1233
-      title: ''
-      total_pages: 500
-      order: 19
-      base_file: 64BB.txt
-    B94F:
-      image_group_id: I1234
-      title: ''
+      volume_number: 10
+      volume_pages_bdrc_intro: 2
+    order: 10
+    base_file: I1224.txt
+    legacy_id: v010
+  I1234:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1234
       total_pages: 560
-      order: 20
-      base_file: B94F.txt
-    FFCE:
-      image_group_id: I1235
-      title: ''
-      total_pages: 524
-      order: 21
-      base_file: FFCE.txt
-    9FE0:
-      image_group_id: I1236
-      title: ''
-      total_pages: 532
-      order: 22
-      base_file: 9FE0.txt
-    F014:
-      image_group_id: I1237
-      title: ''
+      volume_number: 20
+      volume_pages_bdrc_intro: 2
+    order: 20
+    base_file: I1234.txt
+    legacy_id: v020
+  I1233:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1233
+      total_pages: 500
+      volume_number: 19
+      volume_pages_bdrc_intro: 2
+    order: 19
+    base_file: I1233.txt
+    legacy_id: v019
+  I1223:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1223
+      total_pages: 686
+      volume_number: 9
+      volume_pages_bdrc_intro: 2
+    order: 9
+    base_file: I1223.txt
+    legacy_id: v009
+  I1232:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1232
       total_pages: 510
-      order: 23
-      base_file: F014.txt
-    C41A:
-      image_group_id: I1238
-      title: ''
+      volume_number: 18
+      volume_pages_bdrc_intro: 2
+    order: 18
+    base_file: I1232.txt
+    legacy_id: v018
+  I1226:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1226
+      total_pages: 468
+      volume_number: 12
+      volume_pages_bdrc_intro: 2
+    order: 12
+    base_file: I1226.txt
+    legacy_id: v012
+  I1227:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1227
+      total_pages: 576
+      volume_number: 13
+      volume_pages_bdrc_intro: 2
+    order: 13
+    base_file: I1227.txt
+    legacy_id: v013
+  I1236:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1236
+      total_pages: 532
+      volume_number: 22
+      volume_pages_bdrc_intro: 2
+    order: 22
+    base_file: I1236.txt
+    legacy_id: v022
+  I1221:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1221
+      total_pages: 575
+      volume_number: 7
+      volume_pages_bdrc_intro: 2
+    order: 7
+    base_file: I1221.txt
+    legacy_id: v007
+  I1219:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1219
+      total_pages: 460
+      volume_number: 5
+      volume_pages_bdrc_intro: 2
+    order: 5
+    base_file: I1219.txt
+    legacy_id: v005
+  I1225:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1225
+      total_pages: 614
+      volume_number: 11
+      volume_pages_bdrc_intro: 2
+    order: 11
+    base_file: I1225.txt
+    legacy_id: v011
+  I1222:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1222
+      total_pages: 494
+      volume_number: 8
+      volume_pages_bdrc_intro: 2
+    order: 8
+    base_file: I1222.txt
+    legacy_id: v008
+  I1237:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1237
+      total_pages: 510
+      volume_number: 23
+      volume_pages_bdrc_intro: 2
+    order: 23
+    base_file: I1237.txt
+    legacy_id: v023
+  I1235:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1235
+      total_pages: 524
+      volume_number: 21
+      volume_pages_bdrc_intro: 2
+    order: 21
+    base_file: I1235.txt
+    legacy_id: v021
+  I1215:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1215
+      total_pages: 806
+      volume_number: 1
+      volume_pages_bdrc_intro: 2
+    order: 1
+    base_file: I1215.txt
+    legacy_id: v001
+  I1229:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1229
+      total_pages: 476
+      volume_number: 15
+      volume_pages_bdrc_intro: 2
+    order: 15
+    base_file: I1229.txt
+    legacy_id: v015
+  I1238:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1238
       total_pages: 550
-      order: 24
-      base_file: C41A.txt
-    6B3C:
-      image_group_id: I1239
-      title: ''
+      volume_number: 24
+      volume_pages_bdrc_intro: 2
+    order: 24
+    base_file: I1238.txt
+    legacy_id: v024
+  I1220:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1220
+      total_pages: 522
+      volume_number: 6
+      volume_pages_bdrc_intro: 2
+    order: 6
+    base_file: I1220.txt
+    legacy_id: v006
+  I1228:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1228
+      total_pages: 462
+      volume_number: 14
+      volume_pages_bdrc_intro: 2
+    order: 14
+    base_file: I1228.txt
+    legacy_id: v014
+  I1230:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1230
+      total_pages: 570
+      volume_number: 16
+      volume_pages_bdrc_intro: 2
+    order: 16
+    base_file: I1230.txt
+    legacy_id: v016
+  I1239:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1239
       total_pages: 858
-      order: 25
-      base_file: 6B3C.txt
-statistics: {}
-quality: {}
+      volume_number: 25
+      volume_pages_bdrc_intro: 2
+    order: 25
+    base_file: I1239.txt
+    legacy_id: v025
+  I1231:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1231
+      total_pages: 496
+      volume_number: 17
+      volume_pages_bdrc_intro: 2
+    order: 17
+    base_file: I1231.txt
+    legacy_id: v017
+  I1218:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1218
+      total_pages: 578
+      volume_number: 4
+      volume_pages_bdrc_intro: 2
+    order: 4
+    base_file: I1218.txt
+    legacy_id: v004
+  I1217:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1217
+      total_pages: 556
+      volume_number: 3
+      volume_pages_bdrc_intro: 2
+    order: 3
+    base_file: I1217.txt
+    legacy_id: v003
+  I1216:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1216
+      total_pages: 756
+      volume_number: 2
+      volume_pages_bdrc_intro: 2
+    order: 2
+    base_file: I1216.txt
+    legacy_id: v002
 copyright:
-  status: Unknown
-  notice: ''
-  info_url: null
-license: null
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
